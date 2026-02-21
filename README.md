@@ -1,1 +1,1 @@
-# CloudSage-AI
+# ThriftEx-AI
